@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Evertonneto">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonneto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonneto&layout=compact&langs_count=6&theme=transparent"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evertonneto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evertonneto&layout=compact&langs_count=6&theme=transparent"/>
 
 </div>
 <div style="display: inline_block"><br>
