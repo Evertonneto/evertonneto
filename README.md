@@ -21,10 +21,10 @@
  
  ### Projects 🚀
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/Evertonneto/Clone_Spotify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evertonneto&repo=Clone_Spotify&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Evertonneto/Jornada-dev-Fullstack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evertonneto&repo=Jornada-dev-Fullstack&theme=github_dark" />
 </a>
 
