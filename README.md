@@ -27,6 +27,9 @@
 <a href="https://github.com/Evertonneto/Jornada-dev-Fullstack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evertonneto&repo=Jornada-dev-Fullstack&theme=github_dark" />
 </a>
+<a href="https://github.com/Evertonneto/Cards-Api-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evertonneto&repo=Cards-Api-Project&theme=github_dark" />
+</a>
 
 
  
