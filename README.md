@@ -30,8 +30,9 @@
 <a href="https://github.com/Evertonneto/Cards-Api-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evertonneto&repo=Cards-Api-Project&theme=github_dark" />
 </a>
-
-
+<a href="https://github.com/Evertonneto/Game_Mata_Mosquito-Udemy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evertonneto&repo=Game_Mata_Mosquito-Udemy&theme=github_dark" />
+</a>
  
  <br>
  
