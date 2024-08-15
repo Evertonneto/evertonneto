@@ -3,7 +3,7 @@
 
  <div>
    <a href="https://github.com/Evertonneto">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evertonneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evertonneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evertonneto&layout=compact&langs_count=6&theme=github_dark"/>
 
 </div>
